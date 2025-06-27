@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusiFy</string>
+    <string name="get_started">Get Started</string>
+    <string name="explorer_artist">Explorer Artist</string>
+    <string name="song_title">Song Title</string>
+    <string name="artist">Artist</string>
+    <string name="title">Title</string>
+    <string name="artistName">Artist</string>
+</resources>
